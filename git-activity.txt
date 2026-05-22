@@ -1,3 +1,4 @@
 This is my first Git activity.
 
 -Hello! This line was added inside the feature-branch.
+-Hi! This line was added directly from editing this text through GitHub.
